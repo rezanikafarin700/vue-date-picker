@@ -282,9 +282,7 @@
 		.date {
 			border: 1px solid blue;
 			color: blue;
-			/*padding: 20px;*/
 			display: flex;
-			flex-direction: column;
 			justify-content: center;
 			align-items: center;
 			flex-wrap: wrap;
